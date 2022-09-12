@@ -1,4 +1,4 @@
-- 👋 System.out.println(" Hello world! I'm Sarah, a Github newbie as well as a programming newbie, I'm in the process of exploring both... ")
+- 👋 System.out.println(" Hello world! I'm Sarah, I'm in the process of exploring the journey as a junior software engineer... ")
 
 <!---
 Sarahishere/Sarahishere is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
